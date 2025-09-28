@@ -7,5 +7,5 @@ This is an educational project — error handling is not yet implemented!
 To run the program, just execute:
 
 ```bash
-python main.py
+python converter.py
 
