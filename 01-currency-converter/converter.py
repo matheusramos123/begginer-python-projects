@@ -14,7 +14,8 @@ if resp=='D':
 else:
     euro=real/6.20
     print(f'R${real:.2f} convertido para Euro é: {euro:.2f} EUR.')
-print('Conversão realizada com sucesso!')   
+print('Conversão realizada com sucesso!')  
+#Programa encerrado 
         
     
 
