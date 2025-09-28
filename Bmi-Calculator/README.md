@@ -28,4 +28,4 @@ This Python program calculates the Body Mass Index (BMI) based on the user's wei
 
 
 ```bash
-python BmiCalculator.py
+python bmi-calculator.py
