@@ -1,10 +1,10 @@
-# 🧠 People Data Analyzer
+#  People Data Analyzer
 
 This is a simple Python program that registers people by storing their data (name, age, and gender) in a list of dictionaries. It includes input validation and generates a final report with basic statistics.
 
 ---
 
-## 📋 Features
+##  Features
 
 - Allows registration of multiple people.
 - Stores each person's data in a dictionary.
